@@ -71,7 +71,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Binotenk9)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Binotenk)
 
 ### Deploy in your vps
 ```
